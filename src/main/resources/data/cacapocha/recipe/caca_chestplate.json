@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "C C",
+    "CCC",
+    "CCC"
+  ],
+  "key": {
+    "C": "cacapocha:caca"
+  },
+  "result": {
+    "count": 1,
+    "id": "cacapocha:caca_chestplate"
+  }
+}

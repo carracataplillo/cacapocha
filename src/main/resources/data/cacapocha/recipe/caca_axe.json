@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "CC",
+    "CS",
+    " S"
+  ],
+  "key": {
+    "C": "cacapocha:caca",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "count": 1,
+    "id": "cacapocha:caca_axe"
+  }
+}

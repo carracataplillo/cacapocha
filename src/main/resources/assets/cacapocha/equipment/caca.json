@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "cacapocha:caca"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "cacapocha:caca"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "cacapocha:caca"
+      }
+    ]
+  }
+}
