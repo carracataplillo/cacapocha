@@ -176,7 +176,7 @@ public final class CacapochaEquipment {
                                     .setId(cacapocha.ITEMS.key("caca_sword"))
                                     .sword(
                                             CACA_TOOL_MATERIAL,
-                                            3.0F,
+                                            9.0F,
                                             -2.4F
                                     )
                     )
@@ -194,7 +194,7 @@ public final class CacapochaEquipment {
                                     .setId(cacapocha.ITEMS.key("caca_pickaxe"))
                                     .pickaxe(
                                             CACA_TOOL_MATERIAL,
-                                            1.0F,
+                                            3.0F,
                                             -2.8F
                                     )
                     )
@@ -212,7 +212,7 @@ public final class CacapochaEquipment {
                                     .setId(cacapocha.ITEMS.key("caca_axe"))
                                     .axe(
                                             CACA_TOOL_MATERIAL,
-                                            5.0F,
+                                            15.0F,
                                             -3.1F
                                     )
                     )
@@ -230,7 +230,7 @@ public final class CacapochaEquipment {
                                     .setId(cacapocha.ITEMS.key("caca_shovel"))
                                     .shovel(
                                             CACA_TOOL_MATERIAL,
-                                            1.5F,
+                                            3.0F,
                                             -3.0F
                                     )
                     )
